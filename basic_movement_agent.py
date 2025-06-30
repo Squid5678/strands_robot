@@ -55,7 +55,7 @@ def move_robot(direction: str, speed: float, time: float) -> str:
 
 model = OpenAIModel(
     client_args={
-        "api_key": "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",
+        "api_key": "",
     },
     # **model_config
     model_id="gpt-4o",
